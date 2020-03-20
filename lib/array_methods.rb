@@ -22,4 +22,12 @@ end
 
 def find_min_value(array)
   # Add your solution here
+  min = array[0]
+  counter = 1
+  while array[counter] do
+    if array[index] > max then
+      min = array[index]
+    end
+  end
+  min
 end
